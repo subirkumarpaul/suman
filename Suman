@@ -2,11 +2,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ5yOOocnti9t8ypdNs4KnqZbMLnqIzsVYiQ&usqp=CAU",Zee Bangla
 http://173.199.120.51/hls/zeebanglahd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", StarJalsha
+#EXTINF:-1 tvg-logo="" group-title="Indian Bangla", StarJalsha
 http://173.199.120.51/hls/chsj.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", Sony Aath
+#EXTINF:-1 tvg-logo="" group-title="Indian Bangla", Sony Aath
 http://173.199.120.51/hls/sony8.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus HD1
+#EXTINF:-1 tvg-logo="" group-title="Indian Bangla",Colors Bangla
+http://173.199.120.51/hls/colorsbangla.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus
 http://173.199.120.51/hls/chsp.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors HD1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors
 http://173.199.120.51/hls/chc.m3u8
